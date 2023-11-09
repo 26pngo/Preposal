@@ -1,0 +1,43 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Minesweeper (something to do with minesweeper)
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A twist on minesweeper, a game where you are given a grid and need to pinpoint all tiles that have mines. Throughout solving the puzzle, you will earn abilities that will help you solve the grid more easily.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+Although I originally plan to create the code through python, I may change coding languages while I research and find that there is an easier and more efficient coding language to create a minesweeper game. I plan to create a code that creates a grid (size depending on difficulty and mines),
+and randomly set mines around the grid. The code will also provide numbers that can help the user pinpoint where each mine is. In more difficult puzzles of minesweeper, there are times where the information given with the numbers is not enough to guarantee your guess, causing
+a 50/50 chance of losing or winning. I found this frustrating at times, so I want to implement a code that gives you an ability at a chance each time you uncover a tile correctly. With the abilities, you will be able to more easily guess if there's a mine in each tile making
+the game much easier. One of the abilities I have in mind is one where you are given immunity on your next guess. With this, you will be able to guess a 50/50 tile without worrying about losing, since if you do lose the 50/50, you won't die and you'll know which tile has the mine.
+These are all rough ideas for now, but a general blueprint of what my final project will be.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+I do not plan to combine this final project with another course.
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+I plan to work on this project alone.
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+I bare minimum I plan to accomplish is the game minesweeper itself, j a normal minesweeper with no abilities that I mentioned.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome would be the minesweeper game along with some abilities implemented with at least 1 or 2 that is coded without any errors.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome would be a perfectly functioning minesweeper game with three different difficulties. The harder the difficulty, the bigger the grid and with more mines like in normal minesweeper. It would also have minimum 3 unique abilities that could help the user solve the game.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I plan to research videos on how to code minesweeper. I want to also learn to how to implement unique images into my own code similar to the Hurricane Irma with the hurricane image. That way I can have my own images like bombs and flags that I can implement into my game.
